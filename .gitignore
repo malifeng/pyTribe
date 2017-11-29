@@ -90,3 +90,6 @@ ENV/
 
 # LeanCloud settings
 .leancloud/
+
+#pipInstall
+.testvir/
